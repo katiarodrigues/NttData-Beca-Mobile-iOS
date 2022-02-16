@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  AppListaFilmes
+//  ListaFilme
 //
 //  Created by Katia Cristina Rodrigues on 14/02/22.
 //
